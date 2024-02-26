@@ -1,0 +1,20 @@
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\bin\Debug\net6.0-windows\projet gestion de stock.exe
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\bin\Debug\net6.0-windows\projet gestion de stock.dll
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\obj\Debug\net6.0-windows\projet gestion de stock.csproj.AssemblyReference.cache
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\obj\Debug\net6.0-windows\projet_gestion_de_stock.Form1.resources
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\obj\Debug\net6.0-windows\projet_gestion_de_stock.Form2.resources
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\obj\Debug\net6.0-windows\projet gestion de stock.csproj.GenerateResource.cache
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\obj\Debug\net6.0-windows\projet gestion de stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\obj\Debug\net6.0-windows\projet gestion de stock.AssemblyInfoInputs.cache
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\obj\Debug\net6.0-windows\projet gestion de stock.AssemblyInfo.cs
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\obj\Debug\net6.0-windows\projet gestion de stock.csproj.CoreCompileInputs.cache
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\obj\Debug\net6.0-windows\projet gestion de stock.dll
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\obj\Debug\net6.0-windows\refint\projet gestion de stock.dll
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\obj\Debug\net6.0-windows\projet gestion de stock.pdb
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\bin\Debug\net6.0-windows\projet gestion de stock.deps.json
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\bin\Debug\net6.0-windows\projet gestion de stock.runtimeconfig.json
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\bin\Debug\net6.0-windows\projet gestion de stock.pdb
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\obj\Debug\net6.0-windows\projet g.19585827.Up2Date
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\obj\Debug\net6.0-windows\projet gestion de stock.genruntimeconfig.cache
+C:\Users\oulal\OneDrive\Bureau\cour\slam\projet bts\projet gestion de stock\obj\Debug\net6.0-windows\ref\projet gestion de stock.dll
